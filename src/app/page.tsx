@@ -20,7 +20,7 @@ export default function Home() {
               src="/ibukun-dairo-ceo-cuesoft.jpeg"
               alt="Ibukun Dairo, Founder and CEO, Cuesoft Inc."
               width={100}
-              height={24}
+              height={100}
               priority
             />
           </a>
@@ -33,7 +33,7 @@ export default function Home() {
           src="/ibukun-dairo-ceo-cuesoft.jpeg"
           alt="Ibukun Dairo, Founder and CEO, Cuesoft Inc."
           width={180}
-          height={37}
+          height={180}
           priority
         />
       </div>
