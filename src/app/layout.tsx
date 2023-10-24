@@ -59,7 +59,9 @@ export const metadata: Metadata = {
     siteName: "Ibukun Dairo",
     images: [
       {
-        url: "/ibukun-dairo-ceo-cuesoft.jpeg"
+        url: "/ibukun-dairo-ceo-cuesoft.jpg",
+        width: 279,
+        height: 279
       }
     ]
   },
